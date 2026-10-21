@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://suitest.suiflex.dev">Suitest</a> ·
   <a href="http://www.potatodeveloper.online">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/badrus-shoolehk-al-ar-fanny/">LinkedIn</a> ·
-  <a href="mailto:badrussholehaxel@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/m-lie-ulin-nuha-607601320">LinkedIn</a> ·
+  <a href="mailto:liequenzoekamailani@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Open an issue (or ping me) before a large change — I review fast and merge oft
 💼 Hire / collaborate
 Open to architect / staff-level roles, developer-tooling work, and OSS collaboration — especially MCP, testing infrastructure, and systems work in Rust or Zig.
 <p>
-  <a href="mailto:badrussholehaxel@gmail.com"><img src="https://img.shields.io/badge/Email-badrussholehaxel@gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/badrus-shoolehk-al-ar-fanny/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" /></a>
+  <a href="mailto:liequenzoekamailani@gmail.com"><img src="https://img.shields.io/badge/Email-liequenzoekamailani@gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/m-lie-ulin-nuha-607601320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" /></a>
   <a href="http://www.potatodeveloper.online"><img src="https://img.shields.io/badge/Portfolio-potatodeveloper.online-4ade80?style=for-the-badge&labelColor=1c1917" alt="Portfolio" /></a>
 </p>
